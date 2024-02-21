@@ -492,4 +492,16 @@
   }
 }
 
-  
+  /*carousel*/
+
+  @media (min-width: 576px) { 
+    .coordinator{
+      margin-left: 50px;
+    }
+   }
+
+   @media (min-width: 768px) { 
+    .coordinator{
+      margin-right: 20px;
+    }
+    }
