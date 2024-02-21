@@ -505,3 +505,27 @@
       margin-right: 20px;
     }
     }
+
+
+
+    /*top leader*/
+
+    .topleader-section {
+      background-image: radial-gradient(#FFFFFF,#f6e9bc);
+      
+      
+    }
+
+    .top-card{
+      
+      border-radius: 10px;
+    }
+    .top-card-title{
+      color: red;
+      font-size: 20px;
+    }
+    .top-card-title1{
+      color:#183b56;
+      font-size: 26px;
+      font-weight: bold;
+    }
