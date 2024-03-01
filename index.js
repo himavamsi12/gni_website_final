@@ -349,7 +349,7 @@ $(document).ready(function() {
 });
 
 
-(function () {
+/*(function () {
     const second = 1000,
           minute = second * 60,
           hour = minute * 60,
@@ -391,7 +391,7 @@ $(document).ready(function() {
           }
           //seconds
         }, 0)
-    }());
+    }());*/
 
 
 
